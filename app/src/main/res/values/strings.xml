@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="app_name">Mirror Text</string>
+    <string name="splash_name">Mirror\nText</string>
+
+    <!-- Hint -->
+    <string name="hint">Write something</string>
+
+    <!-- Menu -->
+    <string name="about">About</string>
+    <string name="flip_horizontal">Flip Horizontal</string>
+    <string name="flip_vertical">Flip Vertical</string>
+
+    <!-- about -->
+    <string name="developed_by">Developed by :</string>
+    <string name="developer">Kashew Developers</string>
+    <string name="github_link"><u><i>MirrorText - GitHub</i></u></string>
+    <string name="detail">this is an open source application,\nyou can find its source code at:</string>
+
+</resources>

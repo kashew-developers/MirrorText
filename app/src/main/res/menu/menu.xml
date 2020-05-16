@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/about"
+        android:icon="@drawable/info_icon"
+        android:title="@string/about"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/horizontal"
+        android:checkable="true"
+        android:icon="@drawable/info_icon"
+        android:title="@string/flip_horizontal"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/vertical"
+        android:checkable="true"
+        android:checked="true"
+        android:title="@string/flip_vertical"
+        app:showAsAction="never" />
+
+</menu>
