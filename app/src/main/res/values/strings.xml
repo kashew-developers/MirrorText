@@ -17,4 +17,6 @@
     <string name="github_link"><u><i>MirrorText - GitHub</i></u></string>
     <string name="detail">this is an open source application,\nyou can find its source code at:</string>
 
+    <string name="github_url">http://www.github.com/kashew-developers/MirrorText</string>
+
 </resources>
